@@ -9,7 +9,7 @@ Task 3: Write a C++ code using pthread library that performs the following actio
 -	2nd thread will calculate their difference
 -	3rd thread will calculate their product
 -	4th thread will give their squares
-
 Sum, difference, product, squares should be displayed in main method
-Hint: Use Global declaration of variables for access.
-Code:
+Hint: Use Global declaration of variables for access. 
+
+Task 4: Solve Producer and Consumer problem using binary semaphores
