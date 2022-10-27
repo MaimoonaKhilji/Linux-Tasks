@@ -15,3 +15,4 @@ Hint: Use Global declaration of variables for access.
 Task 4: Solve Producer and Consumer problem using binary semaphores
 
 Task 5: Solve FCFS Algorithm.
+Task 6: Solve Priority Based Scheduling Algorithm.
