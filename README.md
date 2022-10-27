@@ -13,3 +13,5 @@ Sum, difference, product, squares should be displayed in main method
 Hint: Use Global declaration of variables for access. 
 
 Task 4: Solve Producer and Consumer problem using binary semaphores
+
+Task 5: Solve FCFS Algorithm.
